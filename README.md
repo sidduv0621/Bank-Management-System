@@ -6,7 +6,7 @@ This is a basic **Bank Management System** implemented in Java using **Object-Or
 - View account balance
 - View transaction history
 - ##  Features
-- 
+ 
 -  **Account Management**
   - Deposit and withdraw funds
 - **Transaction History**
